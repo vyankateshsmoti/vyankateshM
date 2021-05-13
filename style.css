@@ -84,28 +84,28 @@ nav {
     text-align: center;
 }
 
-.content h1{
+.content h2{
     color: white;
-    font-size: 70px;
+    font-size: 60px;
     text-transform: capitalize;
     font-weight: 500;
     margin-bottom: 10px;
 
 }
-.content h2{
+.content h3{
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 400;
 }
-.content h2:before{
+.content h3:before{
     content: "";
-    width:120px;
+    width:90px;
     height: auto;
     border: 2px double #fff;
     position: absolute;
-    left: 40px;
-    bottom: 0;
-    margin-bottom: 8px;
+    left: 8px;
+    bottom: 1;
+    margin-bottom: 10px;
 }
 
 .Social_Network{
